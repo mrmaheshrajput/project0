@@ -65,7 +65,7 @@ p
   font-size: 10px;
 }
 
-table
+.box table
 {
   margin-bottom: 0;
   font-size: 10px;
@@ -115,3 +115,31 @@ table
     font-size: 3em;
   }
 }
+
+/* List page */
+.nav
+{
+  justify-content: center;
+  padding: 20px;
+}
+
+/* List page End */
+
+/* Force page */
+
+.body .first
+{
+  margin-left: 10px;
+  padding: 5px;
+  background-color: #a4a4ca;
+  text-align: right;
+}
+
+.body .second
+{
+  margin-left: 10px;
+  padding: 5px;
+  background-color: #bfb37d;
+}
+
+/* Force page End */
